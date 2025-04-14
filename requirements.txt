@@ -1,0 +1,8 @@
+spacy
+lxml
+pandas
+numpy
+geopy
+folium
+flask
+requests
